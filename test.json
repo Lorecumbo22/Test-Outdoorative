@@ -1,0 +1,23 @@
+{
+  "items": [
+    {
+      "id": "21266233",
+      "title": "Blick vom Falkenstein Richtung Vils, Tirol",
+      "summary": "Immagine fornita dal Tourismusverband Ostallgäu e.V.",
+      "type": "image",
+      "images": [
+        {
+          "url": "http://www.schlosspark.de",
+          "source": "Tourismusverband Ostallgäu e.V.",
+          "width": 3264,
+          "height": 1836
+        }
+      ],
+      "metadata": {
+        "createdAt": "2016-11-16T07:25:11.391+01:00",
+        "lastModifiedAt": "2019-03-23T12:37:21.440+01:00",
+        "firstPublishedAt": "2016-11-16T07:25:11.391+01:00"
+      }
+    }
+  ]
+}
