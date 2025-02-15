@@ -1,0 +1,18 @@
+{
+  "items": [
+    {
+      "id": "21266233",
+      "title": "Percorso panoramico Alagna",
+      "summary": "Un bellissimo percorso attraverso la valle...",
+      "latitude": 45.85,
+      "longitude": 7.96,
+      "images": [
+        {
+          "url": "https://www.outdooractive.com/images/percorso_alagna.jpg"
+        }
+      ],
+      "type": "maps",
+      "url": "https://www.outdooractive.com/it/route/21266233"
+    }
+  ]
+}
