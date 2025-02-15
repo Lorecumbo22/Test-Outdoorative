@@ -1,0 +1,30 @@
+<response xmlns="http://www.outdooractive.com/api/">
+<header>
+<status>ok</status>
+</header>
+<answer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="OoisAnswerType" type="oois">
+<contents xsi:type="ImageType" isValidImage="true" title="Blick vom Falkenstein Richtung Vils, Tirol" isCommunityContent="false" id="21266233" type="image">
+<primaryImage id="21266233"/>
+<meta workflow="published" robots="noindex">
+<author id="1104"/>
+<source name="Tourismusverband Ostallgäu e.V." url="http://www.schlosspark.de" workflow="published" id="1008968" type="organisation">
+<logo title="Tourismusverband Ostallgäu e.V." id="40213799" type="image"/>
+<labels>verified</labels>
+</source>
+<system>
+<createdIn>12</createdIn>
+<lastModifiedIn>12</lastModifiedIn>
+</system>
+<timestamp>
+<createdAt>2016-11-16T07:25:11.391+01:00</createdAt>
+<lastModifiedAt>2019-03-23T12:37:21.440+01:00</lastModifiedAt>
+<changedByClientAt>2017-02-17T09:12:32.385+01:00</changedByClientAt>
+<firstPublishedAt>2016-11-16T07:25:11.391+01:00</firstPublishedAt>
+</timestamp>
+<ranking>0</ranking>
+<translations>de</translations>
+</meta>
+<sourceImageInfo width="3264" height="1836"/>
+</contents>
+</answer>
+</response>
